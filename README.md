@@ -16,7 +16,7 @@ It was completed as part of my self-study on machine learning fundamentals using
 - Model evaluation using **ROC-AUC**  
 - Model saving/loading with **pickle**
 
-## 🏆 Results
+## Results
 - Final model achieved **ROC-AUC = 0.95** on the validation set  
 - Outperformed the Kaggle competition baseline of 0.93  
 
@@ -27,7 +27,8 @@ It was completed as part of my self-study on machine learning fundamentals using
 - Deploy a simple web demo for predictions
 
 ### Environment setup
-You can run this project using either **Anaconda** or **pip**.
+You can get the environment using **Anaconda** or **pip**.
+After that check the .ipynb file for the jupyter notebook.
 
 **Option 1 – Conda**
 
